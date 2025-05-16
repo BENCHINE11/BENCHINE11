@@ -9,7 +9,8 @@
 **Programming Languages:** PHP, C, JAVA, C++, 
 **Version Control:** Git, GitHub
 
-
+#### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENCHINE11&show_icons=true&theme=transparent)
 <!--
 **BENCHINE11/BENCHINE11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
