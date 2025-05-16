@@ -1,12 +1,12 @@
-## BENCHINE Abdelilah 
+## Hi 👋, I'm BENCHINE Abdelilah 
 
-> Currently on a Devops Learning Journey...
+#### **🎓 4th year Computer Engineering student | ☁️ Passionate about Cloud Computing & DevOps | 🛠 Building scalable web apps with Laravel & Next.js**
 
 ### Tools :
 - **Cloud:** AWS
 - **Frameworks:** LARAVEL, VueJS
 - **Database:** MySQL, Oracle SQL Plus
-- **Programming Languages:** PHP, C, JAVA, C++, 
+- **Programming Languages:** PHP, C, JAVA, C++, Python
 - **Version Control:** Git, GitHub
 
 ### Stats :
