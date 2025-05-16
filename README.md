@@ -4,6 +4,8 @@
 
 #### Tools
 **Cloud:** AWS
+**Frameworks:** LARAVEL, VueJS
+**Database:** MySQL, Oracle SQL Plus
 **Programming Languages:** PHP, C, JAVA, C++, 
 **Version Control:** Git, GitHub
 
