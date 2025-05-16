@@ -3,11 +3,11 @@
 
 
 #### Tools
-**Cloud:** AWS
-**Frameworks:** LARAVEL, VueJS
-**Database:** MySQL, Oracle SQL Plus
-**Programming Languages:** PHP, C, JAVA, C++, 
-**Version Control:** Git, GitHub
+- **Cloud:** AWS
+- **Frameworks:** LARAVEL, VueJS
+- **Database:** MySQL, Oracle SQL Plus
+- **Programming Languages:** PHP, C, JAVA, C++, 
+- **Version Control:** Git, GitHub
 
 #### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENCHINE11&show_icons=true&theme=transparent)
