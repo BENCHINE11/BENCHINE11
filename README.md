@@ -2,6 +2,9 @@
 
 #### **🎓 4th year Computer Engineering student | ☁️ Passionate about Cloud Computing & DevOps | 🛠 Building scalable web apps with Laravel & Next.js**
 
+### Contributions :
+- [SmartSprint](https://github.com/achrafidrissi/Jira-Clone): Built the user interface using modern front-end technologies to replicate project management tools' functionality.
+
 ### Tools :
 - **Cloud:** AWS
 - **Frameworks:** LARAVEL, VueJS
